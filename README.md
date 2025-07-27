@@ -72,6 +72,8 @@ Management experience taught me collaboration, communication, and how to work un
 ## 📈 GitHub Stats
 
 ![Alexander's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arobaczewski&show_icons=true&theme=dark)
+
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arobaczewski&layout=compact&theme=dark)
 
 ## 🌟 What I'm Looking For
