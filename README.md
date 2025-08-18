@@ -88,7 +88,7 @@ I'm actively seeking opportunities in **front-end development, React development
 
 - **LinkedIn:** [alexander-robaczewski](https://www.linkedin.com/in/alexander-robaczewski/)
 - **Email:** alexander.robaczewski@gmail.com
-- **Portfolio:** *Coming soon!*
+- **Portfolio:** [Portfolio](https://alexrobo.dev/)
 
 ---
 
