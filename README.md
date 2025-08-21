@@ -22,7 +22,7 @@
 ---
 
 ## 🛠️ Featured Projects
-### 🧮 [Tip Calculator](https://ayrtips.netlify.app/) – React, Tailwind  
+### 🧮 [Tip Calculator](https://ayrtips.netlify.app/) – React, CSS  
 Used daily by management to reduce weekly payout time from **1+ hour → 15 minutes**.  
 
 ### 🛒 [Robo’s Wishlist](https://roboswishlist.netlify.app/) – React, Context API, Tailwind  
