@@ -137,9 +137,9 @@ A professional landing page built for Bloom Wellness Dispensaries during their c
 
 <div align="center">
 
-![Alex's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arobaczewski&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=9D4EDD&icon_color=14B8A6&text_color=FFFFFF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arobaczewski&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arobaczewski&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=9D4EDD&text_color=FFFFFF)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arobaczewski&layout=compact&theme=radical)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Arobaczewski&theme=radical&hide_border=true&background=0D1117&ring=9D4EDD&fire=14B8A6&currStreakLabel=14B8A6)
 
