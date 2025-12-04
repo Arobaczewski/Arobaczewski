@@ -22,7 +22,7 @@ After 8+ years in tech sales and management at AT&T and Verizon, I discovered my
 - ⚡ **Rapid learning ability** with a proven track record of mastering new technologies quickly
 - 🛠️ **Production experience** building apps that are actively used in real businesses
 
-I'm not just learning to code—I'm building solutions that matter.
+I'm not just learning to code, I'm building solutions that matter.
 
 ---
 
@@ -82,10 +82,10 @@ A production-ready e-commerce platform showcasing advanced frontend development 
 
 ---
 
-### 💰 Tip Calculator | Production Tool
+### 💰 [Bloom Tip Calculator](https://ayrtips.netlify.app/) | [GitHub](https://github.com/Arobaczewski/React-Tip-Calculator)
 **Streamlining workplace operations**
 
-A custom-built tip calculator currently in production at Ayr Wellness, designed to solve a real business problem.
+A custom-built tip calculator currently in production at Bloom Wellness, designed to solve a real business problem.
 
 **Impact:**
 - ⏱️ **Reduced calculation time from 60+ minutes to 15 minutes**
@@ -98,7 +98,7 @@ A custom-built tip calculator currently in production at Ayr Wellness, designed 
 
 ---
 
-### 🌤️ WeatherBeatz | [GitHub](https://github.com/Arobaczewski/WeatherBeatz)
+### 🌤️ [Weatherbeatz](https://weatherbeatz.netlify.app/) | [GitHub](https://github.com/Arobaczewski/WeatherBeats)
 **Weather-based Spotify playlist generator**
 
 An interactive web app that generates Spotify playlists based on your current weather conditions, featuring full Spotify OAuth integration.
@@ -116,7 +116,7 @@ An interactive web app that generates Spotify playlists based on your current we
 
 ---
 
-### 🌿 Bloom Wellness Landing Page
+### 🌿 [Bloom Wellness Landing Page](https://landing.bloom-wellness.com/)
 **Client rebranding project**
 
 A professional landing page built for Bloom Wellness Dispensaries during their company transition and rebranding.
@@ -192,10 +192,9 @@ I'm actively looking for **remote Frontend or Full-Stack Developer positions** w
 
 I'm always excited to connect with fellow developers, potential employers, or anyone interested in tech!
 
-📧 **Email:** [your.email@example.com](mailto:your.email@example.com)  
+📧 **Email:** [alexander.robaczewski@gmail.com](mailto:alexander.robaczewski@gmail.com)  
 🌐 **Portfolio:** [alexrobo.dev](https://alexrobo.dev/)  
-💼 **LinkedIn:** [alex-robaczewski](https://linkedin.com/in/alex-robaczewski)  
-🐦 **Twitter/X:** [@your_handle](https://twitter.com/your_handle) *(if applicable)*
+💼 **LinkedIn:** [alex-robaczewski](https://linkedin.com/in/alex-robaczewski) 
 
 ---
 
